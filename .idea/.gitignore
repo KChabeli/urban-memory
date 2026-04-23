@@ -3,3 +3,5 @@
 /workspace.xml
 /caches/
 /deviceStreaming.xml
+/deploymentTargetSelector.xml
+/deviceManager.xml
